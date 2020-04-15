@@ -1,0 +1,6 @@
+/Users/freddyduque/Projects/firstProject/firstProject/bin/Debug/firstProject.exe
+/Users/freddyduque/Projects/firstProject/firstProject/bin/Debug/firstProject.pdb
+/Users/freddyduque/Projects/firstProject/firstProject/obj/Debug/firstProject.csprojAssemblyReference.cache
+/Users/freddyduque/Projects/firstProject/firstProject/obj/Debug/firstProject.csproj.CoreCompileInputs.cache
+/Users/freddyduque/Projects/firstProject/firstProject/obj/Debug/firstProject.exe
+/Users/freddyduque/Projects/firstProject/firstProject/obj/Debug/firstProject.pdb
